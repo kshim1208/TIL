@@ -6,4 +6,6 @@
 2. [get_next_line][gnllink]
 
 [gnllink]: https://github.com/kshim1208/TIL/tree/main/42Courses/get_next_line
-3. ft_printf  
+3. [ft_printf][ft_pflink]
+
+[ft_pflink]: https://github.com/kshim1208/TIL/tree/main/42Courses/libft 
