@@ -28,4 +28,4 @@ gcc [오브젝트 파일 이름] -o [실행 파일 이름]<br/>
 make의 명령은 Target, Dependency, Recipe로 구성된다.<br/>
 <br/><br/>
 Target : Dependency<br/>
-　　　　　recipe<br/>
+　　　　recipe<br/>
