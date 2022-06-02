@@ -9,4 +9,6 @@
 그래서 dangling pointer로 접근하여 주소가 가리키는 값을 수정하는 건 가능하지만, 이후 해당 주소 값을 사용할 때 문제가 발생할 수 있다.</br></br>
 </br>
 #### dangling pointer 다루는 방법</br>
+</br>
+dangling ㅍ
 
