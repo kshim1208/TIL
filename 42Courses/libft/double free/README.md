@@ -4,4 +4,4 @@
 이를 이해하기 위해서는 [malloc][malloclink]의 기능을 자세히 알아야할 필요기 있다.</br>
 </br>
 </br>
-[malloclink]:
+[malloclink]:https://github.com/kshim1208/TIL/blob/main/42Courses/malloc/README.md
