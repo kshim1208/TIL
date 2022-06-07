@@ -10,7 +10,9 @@
   
 [ft_pflink]: https://github.com/kshim1208/TIL/tree/main/42Courses/ft_printf
   
-4. [Born2beRoot]  
+4. [Born2beRoot]
   
-5. [push_swap]  
+5. [push_swap][push_swaplink]
+
+[push_swaplink]: https://github.com/kshim1208/TIL/blob/main/42Courses/push_swap/README.md
   
