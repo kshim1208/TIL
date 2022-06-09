@@ -10,7 +10,7 @@
        
       
        
-#### dangling pointer 다루는 방법    
+### dangling pointer 방지하는 방법    
     
 dangling pointer를 방지하려면 메모리를 할당하여 사용한 후에, 해당 메모리를 가리키는 포인터를 NULL로 초기화해주면 된다.    
     
