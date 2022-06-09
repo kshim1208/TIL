@@ -33,6 +33,7 @@ get_next_line은 open 함수를 통해 읽어온 file descripter의 데이터를
   read 함수를 실행하면 주어진 버퍼 크기만큼 FD가 가리키는 파일을 읽는데, 지금 어디까지 읽었는지를 나타내는 offset 값이 FD Table의 메타 데이터에 저장된다.
 
   이로 인해 read 함수를 도중까지만 읽다가 해당 read 함수를 나중에 다시 호출해도 현재 FD에서 파일을 어디까지 읽었는지 알 수 있는 것이다.  
+    
   또한 이 사실을 바탕으로 read 함수가 kernel의 데이터에 접근하는 systemcall이라는 사실을 알 수 있다.  
   </br>
   </br>
