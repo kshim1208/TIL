@@ -12,15 +12,15 @@ libft 과제는 이러한 함수들을 이용하여 정적 라이브러리를 �
 >    
 > [makefilelink]:https://github.com/kshim1208/TIL/tree/main/42Courses/libft/makefile/README.md    
 >
-    
+>    
 ### 그 외 함수 작성 과정에서 알게 된 것들   
-1. [dangling pointer][danglingpointerlink]   
-     
+> 1. [dangling pointer][danglingpointerlink]   
+>      
 [danglingpointerlink]:https://github.com/kshim1208/TIL/tree/main/42Courses/libft/dangling%20pointer/README.md    
-    
-2. [double free][doublefreelink]    
-  
+>     
+> 2. [double free][doublefreelink]    
+>   
 [doublefreelink]:https://github.com/kshim1208/TIL/blob/main/42Courses/libft/double%20free/README.md    
-    
-    
-### libft 작성 중 발생했던 문제와 대응    
+>    
+>    
+#### libft 작성 중 발생했던 문제와 대응    
