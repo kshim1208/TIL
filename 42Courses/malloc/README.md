@@ -1,13 +1,15 @@
-# malloc       
-라이브러리마다 malloc의 세부적인 구현이 다를 수 있음에 유의해야 합니다.      
-이 문서에서는 malloc의 일반적인 형태를 다룰 것입니다.    
-     
+# malloc()       
+동적 할당을 하는 함수    
+    
 ## malloc과 chunk    
     
      
-## Linux      
+## free와 bin    
+     
+     
+## Linux에서의 동적 할당    
       
-Linux에서 구현된 malloc을 수행할 때는 하드웨어의 메모리를 할당 받기 위해 커널에 system call을 한다.     
+Linux에서 구현된 동적 할당을 통해 heap 영역에 메모리를 할당할 때는 커널에 system call을 한다.     
     
 이 때 사용되는 system call에는    
      
@@ -15,3 +17,8 @@ Linux에서 구현된 malloc을 수행할 때는 하드웨어의 메모리를 �
 2. brk(), sbrk()    
     
 가 있다.     
+
+
+-------------      
+#### 참고한 글
+1. https://rninche01.tistory.com/entry/heap1-Dynamic-Memory-Allocation?category=838537
