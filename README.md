@@ -16,3 +16,9 @@
 
 [push_swaplink]: https://github.com/kshim1208/TIL/blob/main/42Courses/push_swap/README.md
   
+  
+## 개인적으로 정리한 것들  
+  
+* [Markdown 문법][MDgrammar]
+
+[MDgrammar]:
