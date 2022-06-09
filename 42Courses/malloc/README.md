@@ -20,7 +20,9 @@
 >     
 > free bins의 chunk는 연결 리스트의 요소이므로 이전, 이후 요소의 포인터에 대한 데이터를 가지고 있고, 이에 더해 할당되었던 메모리의 크기, mmap 할당인지 여부(heap alloc이 아니라고 함/추가 필요/) 등의 정보도 포함한다.
 >     
-> free chunk의 정보를 토대로, user가 다시 할당을 시도할 때 kernel에 대한 systemcall 없이도 메모리를 신속하게 할당 받을 수 있게 된다.    
+>    
+> free chunk의 정보를 토대로, user가 다시 할당을 시도할 때 kernel에 대한 systemcall 없이도 메모리를 신속하게 할당 받을 수 있다.    
+>         
 > 우선 malloc으로 요청된 메모리의 크기와 동일한 크기를 지닌 요소 있는지 bins 리스트를 순회하며 확인한다.     
 > 만약, bins 리스트에 해당하는 요소가 존재한다면 heap manager는 해당 chunk를 우선적으로 할당하게 된다.    
 > 이 경우, systemcall 없이도 heap 메모리 할당이 이루어진다.    
@@ -28,7 +30,7 @@
 > 그리고 해당하는 chunk가 없는 경우에는 kernel에 systemcall을 요청하게 된다.     
 >    
 >     
-## Linux에서의 동적 할당    
+## Linux에서의 동적 할당  /작성 중/  
       
 Linux에서 구현된 동적 할당을 통해 heap 영역에 메모리를 할당할 때는 커널에 system call을 한다.     
     
