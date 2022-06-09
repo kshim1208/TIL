@@ -21,4 +21,4 @@ Linux에서 구현된 동적 할당을 통해 heap 영역에 메모리를 할당
 
 -------------      
 #### 참고한 글
-1. https://rninche01.tistory.com/entry/heap1-Dynamic-Memory-Allocation?category=838537
+1. https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/
