@@ -28,8 +28,9 @@
 > 이 경우, systemcall 없이도 heap 메모리 할당이 이루어진다.    
 >
 > 그리고 해당하는 chunk가 없는 경우에는 kernel에 systemcall을 요청하게 된다.     
+>      
 >    
->     
+>     bins의 종류도 다양하다 /보충 필요/ 
 ## Linux에서의 동적 할당  /작성 중/  
       
 Linux에서 구현된 동적 할당을 통해 heap 영역에 메모리를 할당할 때는 커널에 system call을 한다.     
