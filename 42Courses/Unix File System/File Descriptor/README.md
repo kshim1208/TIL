@@ -29,3 +29,6 @@ process01에서 open 함수를 사용하여 파일을 열 경우, 3이상의 새
   
 FD Table에는 현재 파일을 어디까지 읽었는지, 파일의 읽기, 쓰기 권한 등이 저장된다.  
   
+-------
+참고한 글
+1. https://www.usna.edu/Users/cs/wcbrown/courses/IC221/classes/L09/Class.html
