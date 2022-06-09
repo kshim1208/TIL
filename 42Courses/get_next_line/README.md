@@ -19,10 +19,10 @@ get_next_line은 open 함수를 통해 읽어온 file descripter의 데이터를
 
 [SHOF]:https://github.com/kshim1208/TIL/tree/main/42Courses/%EB%B6%84%EB%A5%98%20%EC%95%88%EB%90%A8/Stack%20&%20Heap%20Overflow
     
-    
+-----
+</br>
 #### 과제 수행 중 발생한 의문
 </br>
-
 ### read 함수를 실행하면 커널에서 무슨 일이 생기는가?  
   
   우선 open 함수를 실행하면 kernel에서 입력된 파일을 읽어 File Descriptor를 부여하고, 관련된 메타 데이터를 저장하는 File Descriptor Table을 만든다.  
