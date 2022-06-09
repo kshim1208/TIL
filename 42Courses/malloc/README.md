@@ -1,7 +1,7 @@
 # malloc()       
 동적 할당을 하는 함수    
     
-## malloc과 chunk    
+> ## malloc과 chunk    
     
 10바이트 malloc 명령을 내렸을 때 heap manager가 하는 작업 
     
