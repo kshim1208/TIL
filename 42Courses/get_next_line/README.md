@@ -4,7 +4,9 @@ get_next_line은 open 함수를 통해 읽어온 file descripter의 데이터를
 해당 함수를 구현하기 위해 이하 개념을 공부했다.   
     
     
-1. 정적 변수
+1. [정적 변수][staticvarilink]
+
+[staticvarilink]:https://github.com/kshim1208/TIL/blob/main/42Courses/get_next_line/static%20variable/README.md
 2. 유닉스 파일 시스템과 파일 디스크립터
   * 커널 스페이스와 유저 스페이스
   * read 함수와 offset
