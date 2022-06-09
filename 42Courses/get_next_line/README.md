@@ -14,7 +14,9 @@ get_next_line은 open 함수를 통해 읽어온 file descripter의 데이터를
   * [커널 스페이스와 유저 스페이스][KUSPACE]
 
 [KUSPACE]:https://github.com/kshim1208/TIL/tree/main/42Courses/%EB%B6%84%EB%A5%98%20%EC%95%88%EB%90%A8/Kernel%20&%20User%20Space
-3. stack, heap overflow
+3. [stack, heap overflow][SHOF]
+
+[SHOF]:https://github.com/kshim1208/TIL/tree/main/42Courses/%EB%B6%84%EB%A5%98%20%EC%95%88%EB%90%A8/Stack%20&%20Heap%20Overflow
     
     
 #### 과제 수행 중 발생한 의문
