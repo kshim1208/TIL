@@ -1,5 +1,5 @@
 
-## push_swap, 한정된 동작으로 정렬하기</br>
+## push_swap</br>
 </br>
 </br>
 22/06/07</br>
