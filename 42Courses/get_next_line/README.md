@@ -7,7 +7,9 @@ get_next_line은 open 함수를 통해 읽어온 file descripter의 데이터를
 1. [정적 변수][staticvarilink]
 
 [staticvarilink]:https://github.com/kshim1208/TIL/blob/main/42Courses/get_next_line/static%20variable/README.md
-2. 유닉스 파일 시스템과 파일 디스크립터
+2. 유닉스 파일 시스템
+  * [파일 디스크립터][FD]
+[FD]:https://github.com/kshim1208/TIL/tree/main/42Courses/Unix%20File%20System/File%20Descriptor
   * 커널 스페이스와 유저 스페이스
   * read 함수와 offset
 3. stack, heap overflow
