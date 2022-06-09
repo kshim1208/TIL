@@ -21,6 +21,7 @@ get_next_line은 open 함수를 통해 읽어온 file descripter의 데이터를
     
 -----
 </br>
+
 #### 과제 수행 중 발생한 의문  
 
   
