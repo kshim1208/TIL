@@ -7,7 +7,7 @@ make를 사용하면 반복적인 컴파일 혹은 셸 명령을 컴퓨터가 �
    
 * [makefile 문법 정리][MakeGram]
 
-[MakeGram]:
+[MakeGram]:https://github.com/kshim1208/TIL/tree/main/42Courses/libft/makefile/grammar
    
 -----
 ### make을 사용하는 이유    
