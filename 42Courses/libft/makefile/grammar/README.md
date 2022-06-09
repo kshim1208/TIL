@@ -11,16 +11,15 @@
   
 ### 쓸 만한 문법
   
-* $(addprefix 접두사, 텍스트)
+* $(addprefix 접두사, 문자열) -> 문자열 앞에 붙이기
       
       
       $(addprefix old_, main test)
       => old_main old_test
       
   
-* $(addsuffix 접미사, 텍스트)
+* $(addsuffix 접미사, 문자열) -> 문자열 앞에 붙이기
     
       $(addsuffix .c, ft_split ft_strtrim) 
       => ft_split.c ft_strtrim.c
       
-*
