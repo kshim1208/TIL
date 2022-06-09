@@ -19,4 +19,7 @@ libft 과제는 이러한 함수들을 이용하여 정적 라이브러리를 �
     
 2. [double free][doublefreelink]    
   
-[doublefreelink]:https://github.com/kshim1208/TIL/blob/main/42Courses/libft/double%20free/README.md
+[doublefreelink]:https://github.com/kshim1208/TIL/blob/main/42Courses/libft/double%20free/README.md    
+    
+    
+### libft 작성 중 발생했던 문제와 대응    
