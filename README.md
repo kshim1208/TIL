@@ -26,3 +26,7 @@
 * [자료 구조][DataStructure]
 
 [DataStructure]:https://github.com/kshim1208/TIL/tree/main/%EA%B0%9C%EC%9D%B8%20%EC%A0%95%EB%A6%AC/%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0
+
+* [makefile][makefilelink]   
+
+[makefilelink]:https://github.com/kshim1208/TIL/tree/main/42Courses/libft/makefile/README.md    
