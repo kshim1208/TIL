@@ -61,77 +61,64 @@
     적당히 끊으면 됨.
 
 
-#### 코드 블록
+#### 링크
+    
 
-- 코드블럭코드("```") 을 이용하는 방법
-
-```
-
-```
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
-  }
-}
-```
-
-```
-
-```
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
-  }
-}
-
-```
-
-**깃헙**에서는 코드블럭코드("```") 시작점에 사용하는 언어를 선언하여 [문법강조(Syntax highlighting)](https://docs.github.com/en/github/writing-on-github/creating-and-highlighting-code-blocks#syntax-highlighting)이 가능하다.
-
-```
-
-```java
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
-  }
-}
-```
-
-```
-
-```java
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
-  }
-}
-```
-
-링크
-
-[링크 키워드][ID]
-
-[ID]: URL “마우스 올리면 뜨는 텍스트”
-
-강조
+    [링크 키워드][ID]
+    
+    [ID]: URL “마우스 올리면 뜨는 텍스트”
+    
+    
+</br>
+    
+-----
+    
+</br>
+    
+#### 강조
 
  *강조할 문장 *
 
 **강조할 문장 **
 
-이미지 넣기
+'* ' 아스테리스크 1개는 기울임체    
+'** ' 아스테리스크 2개는 진한 폰트  
 
-![Alt text](/path/to/img.jpg)
+</br>
 
-![Alt text](/path/to/img.jpg “마우스 올리면 뜨는 텍스트”)
+-----
 
-사이즈 조절은 
+</br>
 
-<img width="" height=""></img>
 
-ex) <img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+#### 이미지 넣기
 
-줄바꿈
+    
+    ![Alt text](/이미지/경로/지정.jpg)
+    
+    ![Alt text](/이미지/경로/지정.jpg “마우스 올리면 뜨는 텍스트”)
+    
 
+#### 사이즈 조절은 
+
+    
+    <img width="" height=""></img>
+    
+    <img src="/이미지/경로/지정.jpg" width="픽셀단위" height="픽셀단위" title="px(픽셀) 크기 설정" alt="마우스 올리면 뜨는 텍스트"></img><br/>
+    
+    
+ </br>
+ 
+ -----
+ 
+ </br>
+ 
+
+#### 줄바꿈
+  
+  
 문장 끝에서 띄어쓰기 3칸 이상하면 줄 바뀜
+
+혹은 '</br>' 사용  
+
+적절하게 섞어쓰니 사용감 좋았음.
